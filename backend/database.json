@@ -1,0 +1,24 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "name": "Sorvete",
+            "price": 13.50
+        },
+        {
+            "id": 2,
+            "name": "Sorvete Baunilha",
+            "price": 13.50
+        },
+        {
+            "id": 3,
+            "name": "Sorvete Chocolate ",
+            "price": 13.50
+        },
+        {
+            "id": 4,
+            "name": "Sorvete Mouse",
+            "price": 13.50
+        }
+    ]
+}
