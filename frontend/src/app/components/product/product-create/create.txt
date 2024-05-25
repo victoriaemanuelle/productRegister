@@ -1,0 +1,3 @@
+import { ProductService } from '../product.service';
+  providers: [ProductService],
+ constructor(private productService: ProductService)

@@ -1,0 +1,12 @@
+html
+ <button (click)="navigateToProductCreate()" color="primary" mat-raised-button>Novo Produto</button>
+
+ ts 
+ import { RouterModule, Router } from '@angular/router';
+
+ imports: [ RouterModule]
+
+ constructor(private router: Router) {}
+
+ navigateToProductCreate(): void {
+    this.router.navigate(['products/create'])}

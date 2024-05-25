@@ -1,0 +1,12 @@
+html   displays the content on the right side of the screen
+
+
+    <mat-sidenav-content>
+        <router-outlet> </router-outlet>
+    </mat-sidenav-content>
+
+
+ts
+
+import { RouterModule } from '@angular/router';
+ imports [RouterModule]

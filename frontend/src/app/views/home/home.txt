@@ -1,0 +1,5 @@
+displayed on nav
+
+    <mat-sidenav-content>
+        <app-home></app-home>
+    </mat-sidenav-content>

@@ -1,0 +1,27 @@
+.side-nav i{
+    color:  #B1C5B5;
+      position: relative;
+      top: 5px;
+      left: 5px;
+    
+
+}
+/* https://css-tricks.com/tips-aligning-icons-text/   align icon with label*/ 
+
+.label{
+   margin-left: 10px;
+    color:  #B1C5B5;
+}
+
+
+.side-nav a{
+    color:  #B1C5B5;
+    
+}
+
+.content{
+   padding:100px;
+}
+
+
+
