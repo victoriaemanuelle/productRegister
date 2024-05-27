@@ -1,7 +1,8 @@
 .header {
     display: flex;
     align-items:center;
-    background-color: #B1C5B5;  /* https://redketchup.io/color-picker */
+  background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #A9BBAC 100%);
+ /* https://redketchup.io/color-picker #B1C5B5 */ 
 
     
 }

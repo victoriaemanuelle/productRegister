@@ -1,24 +1,34 @@
 {
-    "produtos": [
-        {
-            "id": 1,
-            "name": "Sorvete",
-            "price": 13.50
-        },
-        {
-            "id": 2,
-            "name": "Sorvete Baunilha",
-            "price": 13.50
-        },
-        {
-            "id": 3,
-            "name": "Sorvete Chocolate ",
-            "price": 13.50
-        },
-        {
-            "id": 4,
-            "name": "Sorvete Mouse",
-            "price": 13.50
-        }
-    ]
+  "products": [
+    {
+      "id": "3",
+      "name": "Sorvete Chocolate ",
+      "price": 13.5
+    },
+    {
+      "id": "4",
+      "name": "Sorvete Mouse",
+      "price": 13.5
+    },
+    {
+      "id": "e185",
+      "name": "Janela",
+      "price": "29.99"
+    },
+    {
+      "id": "48c9",
+      "name": "Casa",
+      "price": "22"
+    },
+    {
+      "id": "2fba",
+      "name": "K",
+      "price": "54,22"
+    },
+    {
+      "id": "fce8",
+      "name": "",
+      "price": "11"
+    }
+  ]
 }
